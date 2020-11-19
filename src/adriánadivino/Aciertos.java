@@ -3,7 +3,7 @@ package adriánadivino;
 import java.util.Scanner;
 
 public class Aciertos {
-
+	//Funciona perfecto. Revisado por Juan Alberto, Un saludo y suerte en los exámenes!!!
     public static void main(String[] args) {
         int n = 0,cont = 0;
         int min = 10;
