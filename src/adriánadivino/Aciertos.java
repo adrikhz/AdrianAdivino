@@ -1,5 +1,9 @@
 package adriánadivino;
 
+/*
+ * Todo funciona como es debido
+ */
+
 import java.util.Scanner;
 
 public class Aciertos {
