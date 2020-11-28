@@ -1,3 +1,5 @@
+//Funciona correctamente, corregido por ANTON GEYKO GEYKO.
+
 package adriánadivino;
 
 import java.util.Scanner;
@@ -23,5 +25,11 @@ public class Aciertos {
         } while (n != x);
         System.out.print("Exelente!!! Haz acertado , No. de intentos: "+cont );
         sc.close();
+        
+        //Comprobado mediante este metodo.
+        /*for(int i=1 ; i<=100; i++) {
+        	int x = (int) (Math.random() * (max - min + 1) + min);
+            System.out.println(x);
+        }*/
     }
 }
